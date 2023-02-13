@@ -4,6 +4,15 @@ body {
 	margin: 0 auto;
 	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
 }
+a:link {
+     color: #000000;
+}
+a:visited {
+     color: #000;
+}
+a:hover, a:active, a:focus { 
+     text-decoration: underline;
+}
 .homePage {
 	background: #30B373;
 }
